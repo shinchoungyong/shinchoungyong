@@ -24,7 +24,7 @@
 
 ## 🏆 Award 🏆
 - SMHRD 실전역량프로젝트 장려상 (2024.12.20)
-- 2024 뉴스 빅데이터 해커톤 <b>본선 진출</b> 130개 팀 중 10위 이내 (2024.11.21)
+- 2024 뉴스 빅데이터 해커톤 <b>본선 진출</b> (13:1) (2024.11.21)
 - SMHRD HTML, 머신러닝 부문 우수상(2024.09~)
 
 
@@ -56,15 +56,9 @@
         </td>
     </tr>
     <tr>
-        <td>Server</td>
-        <td>
-            <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
         <td>DataBase</td>
         <td>
-            <img src="https://img.shields.io/badge/Oracle 11g-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
         </td>
     </tr>
