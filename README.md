@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to SCY's Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shincy's%20Github&fontSize=90)
 
 <br>
 
-## 📝 Shin's log 📝
+## 📝 Shincy's log 📝
 <a href=""/></a>
 
 <br>
@@ -88,24 +88,24 @@
         <th>구분</th>
         <th>내용</th>
     </tr>
-    <tr>
-        <td>Front-end</td>
+ <tr>
+     <td>Front-end</td>
         <td>
-         
+         1
         </td>
     </tr>
     <tr>
         <td>Operating System</td>
         <td>
-          
+          2
         </td>
     </tr>
     <tr>
         <td>DataBase</td>
         <td>
-           
+           3
         </td>
-    </tr>
+    </tr> 
 </table>
 
 <br>
