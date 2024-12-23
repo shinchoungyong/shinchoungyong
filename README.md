@@ -81,7 +81,7 @@
 
 <br>
 
-## 😅 A Little 😅
+## 🐾 A Little 🐾
 
 <table>
     <tr>
