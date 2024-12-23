@@ -1,4 +1,7 @@
-![image](https://github.com/)
+<div style="background-color: #00A651; color: white; text-align: center; padding: 20px;">
+  <h1 style="font-family: Arial, sans-serif;">WELCOME TO SCY'S GITHUB</h1>
+  <img src="gom.png" alt="Character" style="width: 100px;">
+</div>
 
 <br>
 
@@ -11,7 +14,7 @@
 - 수업내용 기반 문제 출제 서비스 <b>EduBuddy</b> (2024.11.27 ~ 2024.12.19)
 - BIGKinds News Hackathon <b>Just Listen</b> (2024.10.21 ~ 2024.11.21 )
 - 식품 수출회사 <b>웹사이트 리뉴얼</b> 프로젝트 (2024.09.11 ~ 2024.09.25)
-
+- 여행자만을 위한 SNS <b>DoRibun</b> 프로젝트 (2024.08.20 ~ 2024.09.25)
 
 
 <br>
