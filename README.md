@@ -1,7 +1,4 @@
-<div style="background-color: #00A651; color: white; text-align: center; padding: 20px;">
-  <h1 style="font-family: Arial, sans-serif;">WELCOME TO SCY'S GITHUB</h1>
-  <img src="gom.png" alt="Character" style="width: 100px;">
-</div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome to SCY's Github&fontSize=90)
 
 <br>
 
