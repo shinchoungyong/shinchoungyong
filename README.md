@@ -5,6 +5,7 @@
 ## 📝 Shincy's log 📝
 <a href="https://velog.io/@shinchoungyong/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
+<br>
 
 ## 📁 Project 📂
 - 수업내용 기반 문제 출제 서비스 <b>EduBuddy</b> (2024.11.27 ~ 2024.12.19)
@@ -26,13 +27,13 @@
 - 2024 뉴스 빅데이터 해커톤 <b>본선 진출</b> (13:1) (2024.11.21)
 - SMHRD HTML,CSS,JS,딥러닝 부문 우수상(2024.09~12)
 
+<br>
+
 ## 📙 Education & License 📙
 - 국민대학교 생명나노화학과 졸업(2012.03.02 ~ 2018.02.16)
 - 대한민국 해군 병장 만기 전역(2014.03 ~ 2016.02)
 - 중등교원자격증(화학) (2018.02.16)
 - 정보처리기사 도전중(2025~)
-
-<br>
 
 <br>
 
@@ -72,7 +73,6 @@
         <td>
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
             <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-            <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
             <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
         </td>
     </tr>
@@ -87,12 +87,6 @@
         <th>구분</th>
         <th>내용</th>
     </tr>
- <tr>
-     <td>Front-end</td>
-        <td>
-         1
-        </td>
-    </tr>
     <tr>
         <td>Operating System</td>
         <td>
@@ -100,11 +94,17 @@
         </td>
     </tr>
     <tr>
-        <td>DataBase</td>
+        <td>Server</td>
         <td>
-           3
+         <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
         </td>
     </tr> 
+    <tr>
+     <td>Collaboration Tools</td>
+        <td>
+         <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+        </td>
+    </tr>
 </table>
 
 <br>
