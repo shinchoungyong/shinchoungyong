@@ -3,9 +3,8 @@
 <br>
 
 ## 📝 Shincy's log 📝
-<a href="https://velog.io/@shinchoungyong/posts"/></a>
+<a href="https://velog.io/@shinchoungyong/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
-<br>
 
 ## 📁 Project 📂
 - 수업내용 기반 문제 출제 서비스 <b>EduBuddy</b> (2024.11.27 ~ 2024.12.19)
