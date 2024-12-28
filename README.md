@@ -3,7 +3,7 @@
 <br>
 
 ## 📝 Shincy's log 📝
-<a href=""/></a>
+<a href="https://velog.io/@shinchoungyong/posts"/></a>
 
 <br>
 
