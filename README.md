@@ -96,7 +96,7 @@
     <tr>
         <td>Operating System</td>
         <td>
-          2
+            <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
         </td>
     </tr>
     <tr>
